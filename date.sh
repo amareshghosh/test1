@@ -3,4 +3,3 @@ uname -a
 date
 ls -ltr
 echo "another line"
-echo "another line"
