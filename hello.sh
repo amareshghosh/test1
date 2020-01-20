@@ -4,3 +4,4 @@ echo "This Is test"
 echo "adding another line"
 echo "this is amelia"
 date
+uname -a
