@@ -5,4 +5,4 @@ echo "adding another line"
 echo "this is amelia"
 date
 uname -a
-sudo cat /var/log/messages
+ls -ltr /home/ubuntu
