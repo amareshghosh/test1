@@ -5,4 +5,4 @@ echo "adding another line"
 echo "this is amelia"
 date
 uname -a
-ls -ltr /home/ubuntu
+ls -ltr /home/opc
